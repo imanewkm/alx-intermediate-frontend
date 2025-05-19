@@ -1,0 +1,4 @@
+1. Installed Node.js from the official website: https://nodejs.org/
+2. Opened the terminal/command prompt.
+3. Ran the command: npm install -g sass
+4. Verified the installation by running: sass --version
